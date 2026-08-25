@@ -13,3 +13,11 @@ print("Email addresses found:")
 
 for email in emails:
     print(email)
+
+
+#    OUTPUT:
+
+# Email addresses found:
+# student@gmail.com
+# admin@college.edu
+# support123@yahoo.com
